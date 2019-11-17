@@ -7,14 +7,14 @@
 - Inner
 
 <p align="center">
-<a href="./blob/master/assets/inner.jpg?raw=true"
-<img src="./blob/master/assets/inner.jpg?raw=true" width="500">
+<a href="https://raw.githubusercontent.com/ggodreau/sql_bootcamp/master/assets/inner.jpg"
+<img src="https://raw.githubusercontent.com/ggodreau/sql_bootcamp/master/assets/inner.jpg" width="500">
 </a>
 </p>
 
 - Left
 <p align="center">
-<a href="https://github.com/ggodreau/sql_bootcamp/blob/master/assets/left.jpg?raw=true"
-<img src="https://github.com/ggodreau/sql_bootcamp/blob/master/assets/left.jpg?raw=true" width="500">
+<a href="https://raw.githubusercontent.com/ggodreau/sql_bootcamp/master/assets/left.jpg"
+<img src="https://raw.githubusercontent.com/ggodreau/sql_bootcamp/master/assets/left.jpg" width="500">
 </a>
 </p>
