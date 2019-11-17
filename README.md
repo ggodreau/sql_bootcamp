@@ -18,3 +18,5 @@
 <img src="https://raw.githubusercontent.com/ggodreau/sql_bootcamp/master/assets/left.jpg" width="500">
 </a>
 </p>
+
+![foobar](https://raw.githubusercontent.com/ggodreau/sql_bootcamp/master/assets/left.jpg)
