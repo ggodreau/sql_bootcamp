@@ -6,6 +6,8 @@
 
 - Inner
 
+![foobar](https://raw.githubusercontent.com/ggodreau/sql_bootcamp/master/assets/inner.jpg)
+
 <p align="center">
 <a href="https://raw.githubusercontent.com/ggodreau/sql_bootcamp/master/assets/inner.jpg"
 <img src="https://raw.githubusercontent.com/ggodreau/sql_bootcamp/master/assets/inner.jpg" width="500">
@@ -13,10 +15,12 @@
 </p>
 
 - Left
+
+![foobar](https://raw.githubusercontent.com/ggodreau/sql_bootcamp/master/assets/left.jpg)
+
 <p align="center">
 <a href="https://raw.githubusercontent.com/ggodreau/sql_bootcamp/master/assets/left.jpg"
 <img src="https://raw.githubusercontent.com/ggodreau/sql_bootcamp/master/assets/left.jpg" width="500">
 </a>
 </p>
 
-![foobar](https://raw.githubusercontent.com/ggodreau/sql_bootcamp/master/assets/left.jpg)
